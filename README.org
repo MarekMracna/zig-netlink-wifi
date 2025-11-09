@@ -1,0 +1,4 @@
+#+title: Netlink and IEEE 802.11 experiments
+
+* About
+Getting the SSID of the currently connected Wi-Fi network on Linux is surprisingly hard to do without external tools. This codebase has grown out of the desire to write my own tool from scratch.
